@@ -12,9 +12,7 @@
     "hubot-heroku-keepalive": "^1.0.3",
     "hubot-memes": "^1.6.2",
     "hubot-pugme": "^0.1.1",
-    "hubot-pugme-reddit": "^1.0.0",
     "hubot-slack": "^4.5.5",
-    "hubot-star-wars-motivation": "^1.0.0",
     "hubot-thesimpsons": "^1.1.5"
   },
   "engines": {
