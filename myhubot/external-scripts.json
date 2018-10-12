@@ -3,5 +3,6 @@
   "hubot-catme",
   "hubot-thesimpsons",
   "hubot-chicken-dance",
-  "hubot-memes"
+  "hubot-memes",
+  "hubot-heroku-keepalive"
 ]
